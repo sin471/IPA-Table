@@ -22,7 +22,7 @@
     "IPA Name": "Lower-case T",
     "USV": "0074",
     "Unicode Name": "LATIN SMALL LETTER T",
-    "IPA Description": "無声 歯 or 歯茎 破裂音",
+    "IPA Description": "無声 歯茎 破裂音",
     "Status": "",
     "Character": "t"
   },
@@ -31,7 +31,7 @@
     "IPA Name": "Lower-case D",
     "USV": "0064",
     "Unicode Name": "LATIN SMALL LETTER D",
-    "IPA Description": "有声 歯 or 歯茎 破裂音",
+    "IPA Description": "有声 歯茎 破裂音",
     "Status": "",
     "Character": "d"
   },
@@ -139,7 +139,7 @@
     "IPA Name": "Lower-case N",
     "USV": "006E",
     "Unicode Name": "LATIN SMALL LETTER N",
-    "IPA Description": "有声 歯 or 歯茎 鼻音",
+    "IPA Description": "有声 歯茎 鼻音",
     "Status": "",
     "Character": "n"
   },
@@ -184,7 +184,7 @@
     "IPA Name": "Lower-case R",
     "USV": "0072",
     "Unicode Name": "LATIN SMALL LETTER R",
-    "IPA Description": "有声 歯 or 歯茎 ふるえ音",
+    "IPA Description": "有声 歯茎 ふるえ音",
     "Status": "",
     "Character": "r"
   },
@@ -202,7 +202,7 @@
     "IPA Name": "Fish-hook R",
     "USV": "027E",
     "Unicode Name": "LATIN SMALL LETTER R WITH FISHHOOK",
-    "IPA Description": "有声 歯 or 歯茎 たたき音",
+    "IPA Description": "有声 歯茎 たたき音",
     "Status": "",
     "Character": "ɾ"
   },
@@ -391,7 +391,7 @@
     "IPA Name": "Reversed glottal stop",
     "USV": "0295",
     "Unicode Name": "LATIN LETTER PHARYNGEAL VOICED FRICATIVE",
-    "IPA Description": "有声 咽頭 摩擦 or 接近音音",
+    "IPA Description": "有声 咽頭 摩擦音",
     "Status": "",
     "Character": "ʕ"
   },
@@ -418,7 +418,7 @@
     "IPA Name": "Belted L",
     "USV": "026C",
     "Unicode Name": "LATIN SMALL LETTER L WITH BELT",
-    "IPA Description": "無声 歯 or 歯茎 側面摩擦音",
+    "IPA Description": "無声 歯茎 側面摩擦音",
     "Status": "",
     "Character": "ɬ"
   },
@@ -427,7 +427,7 @@
     "IPA Name": "L-Ezh ligature",
     "USV": "026E",
     "Unicode Name": "LATIN SMALL LETTER LEZH",
-    "IPA Description": "有声 歯 or 歯茎 側面摩擦音",
+    "IPA Description": "有声 歯茎 側面摩擦音",
     "Status": "",
     "Character": "ɮ"
   },
@@ -445,7 +445,7 @@
     "IPA Name": "Turned R",
     "USV": "0279",
     "Unicode Name": "LATIN SMALL LETTER TURNED R",
-    "IPA Description": "有声 歯 or 歯茎 接近音音",
+    "IPA Description": "有声 歯茎・後部歯茎 接近音音",
     "Status": "",
     "Character": "ɹ"
   },
@@ -481,7 +481,7 @@
     "IPA Name": "Lower-case L",
     "USV": "006C",
     "Unicode Name": "LATIN SMALL LETTER L",
-    "IPA Description": "有声 歯 or 歯茎 側面接近音",
+    "IPA Description": "有声 歯茎 側面接近音",
     "Status": "",
     "Character": "l"
   },
