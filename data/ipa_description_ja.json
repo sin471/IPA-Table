@@ -4,7 +4,7 @@
     "IPA Name": "Lower-case P",
     "USV": "0070",
     "Unicode Name": "LATIN SMALL LETTER P",
-    "IPA Description": "無声 両唇 破裂音",
+    "IPA Description": "無声 両唇 破裂 音",
     "Status": "",
     "Character": "p"
   },
@@ -13,7 +13,7 @@
     "IPA Name": "Lower-case B",
     "USV": "0062",
     "Unicode Name": "LATIN SMALL LETTER B",
-    "IPA Description": "有声 両唇 破裂音",
+    "IPA Description": "有声 両唇 破裂 音",
     "Status": "",
     "Character": "b"
   },
@@ -22,7 +22,7 @@
     "IPA Name": "Lower-case T",
     "USV": "0074",
     "Unicode Name": "LATIN SMALL LETTER T",
-    "IPA Description": "無声 歯茎 破裂音",
+    "IPA Description": "無声 歯茎 破裂 音",
     "Status": "",
     "Character": "t"
   },
@@ -31,7 +31,7 @@
     "IPA Name": "Lower-case D",
     "USV": "0064",
     "Unicode Name": "LATIN SMALL LETTER D",
-    "IPA Description": "有声 歯茎 破裂音",
+    "IPA Description": "有声 歯茎 破裂 音",
     "Status": "",
     "Character": "d"
   },
@@ -40,7 +40,7 @@
     "IPA Name": "Right-tail T",
     "USV": "0288",
     "Unicode Name": "LATIN SMALL LETTER T WITH RETROFLEX HOOK",
-    "IPA Description": "無声 そり舌 破裂音",
+    "IPA Description": "無声 そり舌 破裂 音",
     "Status": "",
     "Character": "ʈ"
   },
@@ -49,7 +49,7 @@
     "IPA Name": "Right-tail D",
     "USV": "0256",
     "Unicode Name": "LATIN SMALL LETTER D WITH TAIL",
-    "IPA Description": "有声 そり舌 破裂音",
+    "IPA Description": "有声 そり舌 破裂 音",
     "Status": "",
     "Character": "ɖ"
   },
@@ -58,7 +58,7 @@
     "IPA Name": "Lower-case C",
     "USV": "0063",
     "Unicode Name": "LATIN SMALL LETTER C",
-    "IPA Description": "無声 硬口蓋 破裂音",
+    "IPA Description": "無声 硬口蓋 破裂 音",
     "Status": "",
     "Character": "c"
   },
@@ -67,7 +67,7 @@
     "IPA Name": "Barred dotless J",
     "USV": "025F",
     "Unicode Name": "LATIN SMALL LETTER DOTLESS J WITH STROKE",
-    "IPA Description": "有声 硬口蓋 破裂音",
+    "IPA Description": "有声 硬口蓋 破裂 音",
     "Status": "",
     "Character": "ɟ"
   },
@@ -76,7 +76,7 @@
     "IPA Name": "Lower-case K",
     "USV": "006B",
     "Unicode Name": "LATIN SMALL LETTER K",
-    "IPA Description": "無声 軟口蓋 破裂音",
+    "IPA Description": "無声 軟口蓋 破裂 音",
     "Status": "",
     "Character": "k"
   },
@@ -85,7 +85,7 @@
     "IPA Name": "Opentail G",
     "USV": "0261",
     "Unicode Name": "LATIN SMALL LETTER SCRIPT G",
-    "IPA Description": "有声 軟口蓋 破裂音",
+    "IPA Description": "有声 軟口蓋 破裂 音",
     "Status": "Equivalent to 210",
     "Character": "ɡ"
   },
@@ -94,7 +94,7 @@
     "IPA Name": "Lower-case Q",
     "USV": "0071",
     "Unicode Name": "LATIN SMALL LETTER Q",
-    "IPA Description": "無声 口蓋垂 破裂音",
+    "IPA Description": "無声 口蓋垂 破裂 音",
     "Status": "",
     "Character": "q"
   },
@@ -103,7 +103,7 @@
     "IPA Name": "Small capital G",
     "USV": "0262",
     "Unicode Name": "LATIN LETTER SMALL CAPITAL G",
-    "IPA Description": "有声 口蓋垂 破裂音",
+    "IPA Description": "有声 口蓋垂 破裂 音",
     "Status": "",
     "Character": "ɢ"
   },
@@ -112,7 +112,7 @@
     "IPA Name": "Glottal stop",
     "USV": "0294",
     "Unicode Name": "LATIN LETTER GLOTTAL STOP",
-    "IPA Description": "声門 破裂音",
+    "IPA Description": "声門 破裂 音",
     "Status": "",
     "Character": "ʔ"
   },
@@ -121,7 +121,7 @@
     "IPA Name": "Lower-case M",
     "USV": "006D",
     "Unicode Name": "LATIN SMALL LETTER M",
-    "IPA Description": "有声 両唇 鼻音",
+    "IPA Description": "有声 両唇 鼻 音",
     "Status": "",
     "Character": "m"
   },
@@ -130,7 +130,7 @@
     "IPA Name": "Left-tail M (at right)",
     "USV": "0271",
     "Unicode Name": "LATIN SMALL LETTER M WITH HOOK",
-    "IPA Description": "有声 唇歯 鼻音",
+    "IPA Description": "有声 唇歯 鼻 音",
     "Status": "",
     "Character": "ɱ"
   },
@@ -139,7 +139,7 @@
     "IPA Name": "Lower-case N",
     "USV": "006E",
     "Unicode Name": "LATIN SMALL LETTER N",
-    "IPA Description": "有声 歯茎 鼻音",
+    "IPA Description": "有声 歯茎 鼻 音",
     "Status": "",
     "Character": "n"
   },
@@ -148,7 +148,7 @@
     "IPA Name": "Right-tail N",
     "USV": "0273",
     "Unicode Name": "LATIN SMALL LETTER N WITH RETROFLEX HOOK",
-    "IPA Description": "有声 そり舌 鼻音",
+    "IPA Description": "有声 そり舌 鼻 音",
     "Status": "",
     "Character": "ɳ"
   },
@@ -157,7 +157,7 @@
     "IPA Name": "Left-tail N (at left)",
     "USV": "0272",
     "Unicode Name": "LATIN SMALL LETTER N WITH LEFT HOOK",
-    "IPA Description": "有声 硬口蓋 鼻音",
+    "IPA Description": "有声 硬口蓋 鼻 音",
     "Status": "",
     "Character": "ɲ"
   },
@@ -166,7 +166,7 @@
     "IPA Name": "Eng",
     "USV": "014B",
     "Unicode Name": "LATIN SMALL LETTER ENG",
-    "IPA Description": "有声 軟口蓋 鼻音",
+    "IPA Description": "有声 軟口蓋 鼻 音",
     "Status": "",
     "Character": "ŋ"
   },
@@ -175,7 +175,7 @@
     "IPA Name": "Small capital N",
     "USV": "0274",
     "Unicode Name": "LATIN LETTER SMALL CAPITAL N",
-    "IPA Description": "有声 口蓋垂 鼻音",
+    "IPA Description": "有声 口蓋垂 鼻 音",
     "Status": "",
     "Character": "ɴ"
   },
@@ -184,7 +184,7 @@
     "IPA Name": "Lower-case R",
     "USV": "0072",
     "Unicode Name": "LATIN SMALL LETTER R",
-    "IPA Description": "有声 歯茎 ふるえ音",
+    "IPA Description": "有声 歯茎 ふるえ 音",
     "Status": "",
     "Character": "r"
   },
@@ -193,7 +193,7 @@
     "IPA Name": "Small capital R",
     "USV": "0280",
     "Unicode Name": "LATIN LETTER SMALL CAPITAL R",
-    "IPA Description": "有声 口蓋垂 ふるえ音",
+    "IPA Description": "有声 口蓋垂 ふるえ 音",
     "Status": "",
     "Character": "ʀ"
   },
@@ -202,7 +202,7 @@
     "IPA Name": "Fish-hook R",
     "USV": "027E",
     "Unicode Name": "LATIN SMALL LETTER R WITH FISHHOOK",
-    "IPA Description": "有声 歯茎 たたき音",
+    "IPA Description": "有声 歯茎 たたき 音",
     "Status": "",
     "Character": "ɾ"
   },
@@ -211,7 +211,7 @@
     "IPA Name": "Right-tail R",
     "USV": "027D",
     "Unicode Name": "LATIN SMALL LETTER R WITH TAIL",
-    "IPA Description": "有声 そり舌 はじき音",
+    "IPA Description": "有声 そり舌 はじき 音",
     "Status": "",
     "Character": "ɽ"
   },
@@ -220,7 +220,7 @@
     "IPA Name": "Phi",
     "USV": "0278",
     "Unicode Name": "LATIN SMALL LETTER PHI",
-    "IPA Description": "無声 両唇 摩擦音",
+    "IPA Description": "無声 両唇 摩擦 音",
     "Status": "",
     "Character": "ɸ"
   },
@@ -229,7 +229,7 @@
     "IPA Name": "Beta",
     "USV": "03B2",
     "Unicode Name": "GREEK SMALL LETTER BETA",
-    "IPA Description": "有声 両唇 摩擦音",
+    "IPA Description": "有声 両唇 摩擦 音",
     "Status": "",
     "Character": "β"
   },
@@ -238,7 +238,7 @@
     "IPA Name": "Lower-case F",
     "USV": "0066",
     "Unicode Name": "LATIN SMALL LETTER F",
-    "IPA Description": "無声 唇歯 摩擦音",
+    "IPA Description": "無声 唇歯 摩擦 音",
     "Status": "",
     "Character": "f"
   },
@@ -247,7 +247,7 @@
     "IPA Name": "Lower-case V",
     "USV": "0076",
     "Unicode Name": "LATIN SMALL LETTER V",
-    "IPA Description": "有声 唇歯 摩擦音",
+    "IPA Description": "有声 唇歯 摩擦 音",
     "Status": "",
     "Character": "v"
   },
@@ -256,7 +256,7 @@
     "IPA Name": "Theta",
     "USV": "03B8",
     "Unicode Name": "GREEK SMALL LETTER THETA",
-    "IPA Description": "無声 歯 摩擦音",
+    "IPA Description": "無声 歯 摩擦 音",
     "Status": "",
     "Character": "θ"
   },
@@ -265,7 +265,7 @@
     "IPA Name": "Eth",
     "USV": "00F0",
     "Unicode Name": "LATIN SMALL LETTER ETH",
-    "IPA Description": "有声 歯 摩擦音",
+    "IPA Description": "有声 歯 摩擦 音",
     "Status": "",
     "Character": "ð"
   },
@@ -274,7 +274,7 @@
     "IPA Name": "Lower-case S",
     "USV": "0073",
     "Unicode Name": "LATIN SMALL LETTER S",
-    "IPA Description": "無声 歯茎 摩擦音",
+    "IPA Description": "無声 歯茎 摩擦 音",
     "Status": "",
     "Character": "s"
   },
@@ -283,7 +283,7 @@
     "IPA Name": "Lower-case Z",
     "USV": "007A",
     "Unicode Name": "LATIN SMALL LETTER Z",
-    "IPA Description": "有声 歯茎 摩擦音",
+    "IPA Description": "有声 歯茎 摩擦 音",
     "Status": "",
     "Character": "z"
   },
@@ -292,7 +292,7 @@
     "IPA Name": "Esh",
     "USV": "0283",
     "Unicode Name": "LATIN SMALL LETTER ESH",
-    "IPA Description": "無声 後部歯茎 摩擦音",
+    "IPA Description": "無声 後部歯茎 摩擦 音",
     "Status": "",
     "Character": "ʃ"
   },
@@ -301,7 +301,7 @@
     "IPA Name": "Ezh; Tailed Z",
     "USV": "0292",
     "Unicode Name": "LATIN SMALL LETTER EZH",
-    "IPA Description": "有声 後部歯茎 摩擦音",
+    "IPA Description": "有声 後部歯茎 摩擦 音",
     "Status": "",
     "Character": "ʒ"
   },
@@ -310,7 +310,7 @@
     "IPA Name": "Right-Tail S (at left)",
     "USV": "0282",
     "Unicode Name": "LATIN SMALL LETTER S WITH HOOK",
-    "IPA Description": "無声 そり舌 摩擦音",
+    "IPA Description": "無声 そり舌 摩擦 音",
     "Status": "",
     "Character": "ʂ"
   },
@@ -319,7 +319,7 @@
     "IPA Name": "Right-tail Z",
     "USV": "0290",
     "Unicode Name": "LATIN SMALL LETTER Z WITH RETROFLEX HOOK",
-    "IPA Description": "有声 そり舌 摩擦音",
+    "IPA Description": "有声 そり舌 摩擦 音",
     "Status": "",
     "Character": "ʐ"
   },
@@ -328,7 +328,7 @@
     "IPA Name": "C cedilla",
     "USV": "00E7",
     "Unicode Name": "LATIN SMALL LETTER C WITH CEDILLA",
-    "IPA Description": "無声 硬口蓋 摩擦音",
+    "IPA Description": "無声 硬口蓋 摩擦 音",
     "Status": "",
     "Character": "ç"
   },
@@ -337,7 +337,7 @@
     "IPA Name": "Curly-tail J",
     "USV": "029D",
     "Unicode Name": "LATIN SMALL LETTER J WITH CROSSED-TAIL",
-    "IPA Description": "有声 硬口蓋 摩擦音",
+    "IPA Description": "有声 硬口蓋 摩擦 音",
     "Status": "",
     "Character": "ʝ"
   },
@@ -346,7 +346,7 @@
     "IPA Name": "Lower-case X",
     "USV": "0078",
     "Unicode Name": "LATIN SMALL LETTER X",
-    "IPA Description": "無声 軟口蓋 摩擦音",
+    "IPA Description": "無声 軟口蓋 摩擦 音",
     "Status": "",
     "Character": "x"
   },
@@ -355,7 +355,7 @@
     "IPA Name": "Gamma",
     "USV": "0263",
     "Unicode Name": "LATIN SMALL LETTER GAMMA",
-    "IPA Description": "有声 軟口蓋 摩擦音",
+    "IPA Description": "有声 軟口蓋 摩擦 音",
     "Status": "",
     "Character": "ɣ"
   },
@@ -364,7 +364,7 @@
     "IPA Name": "Chi",
     "USV": "03C7",
     "Unicode Name": "GREEK SMALL LETTER CHI",
-    "IPA Description": "無声 口蓋垂 摩擦音",
+    "IPA Description": "無声 口蓋垂 摩擦 音",
     "Status": "",
     "Character": "χ"
   },
@@ -373,7 +373,7 @@
     "IPA Name": "Inverted small capital R",
     "USV": "0281",
     "Unicode Name": "LATIN LETTER SMALL CAPITAL INVERTED R",
-    "IPA Description": "有声 口蓋垂 摩擦音",
+    "IPA Description": "有声 口蓋垂 摩擦 音",
     "Status": "",
     "Character": "ʁ"
   },
@@ -382,7 +382,7 @@
     "IPA Name": "Barred H",
     "USV": "0127",
     "Unicode Name": "LATIN SMALL LETTER H WITH STROKE",
-    "IPA Description": "無声 咽頭 摩擦音",
+    "IPA Description": "無声 咽頭 摩擦 音",
     "Status": "",
     "Character": "ħ"
   },
@@ -391,7 +391,7 @@
     "IPA Name": "Reversed glottal stop",
     "USV": "0295",
     "Unicode Name": "LATIN LETTER PHARYNGEAL VOICED FRICATIVE",
-    "IPA Description": "有声 咽頭 摩擦音",
+    "IPA Description": "有声 咽頭 摩擦 音",
     "Status": "",
     "Character": "ʕ"
   },
@@ -400,7 +400,7 @@
     "IPA Name": "Lower-case H",
     "USV": "0068",
     "Unicode Name": "LATIN SMALL LETTER H",
-    "IPA Description": "無声 声門 摩擦音",
+    "IPA Description": "無声 声門 摩擦 音",
     "Status": "",
     "Character": "h"
   },
@@ -409,7 +409,7 @@
     "IPA Name": "Hooktop H",
     "USV": "0266",
     "Unicode Name": "LATIN SMALL LETTER H WITH HOOK",
-    "IPA Description": "有声 声門 摩擦音",
+    "IPA Description": "有声 声門 摩擦 音",
     "Status": "",
     "Character": "ɦ"
   },
@@ -418,7 +418,7 @@
     "IPA Name": "Belted L",
     "USV": "026C",
     "Unicode Name": "LATIN SMALL LETTER L WITH BELT",
-    "IPA Description": "無声 歯茎 側面摩擦音",
+    "IPA Description": "無声 歯茎 側面摩擦 音",
     "Status": "",
     "Character": "ɬ"
   },
@@ -427,7 +427,7 @@
     "IPA Name": "L-Ezh ligature",
     "USV": "026E",
     "Unicode Name": "LATIN SMALL LETTER LEZH",
-    "IPA Description": "有声 歯茎 側面摩擦音",
+    "IPA Description": "有声 歯茎 側面摩擦 音",
     "Status": "",
     "Character": "ɮ"
   },
@@ -436,7 +436,7 @@
     "IPA Name": "Cursive V",
     "USV": "028B",
     "Unicode Name": "LATIN SMALL LETTER V WITH HOOK",
-    "IPA Description": "有声 唇歯 接近音音",
+    "IPA Description": "有声 唇歯 接近 音 音",
     "Status": "",
     "Character": "ʋ"
   },
@@ -445,7 +445,7 @@
     "IPA Name": "Turned R",
     "USV": "0279",
     "Unicode Name": "LATIN SMALL LETTER TURNED R",
-    "IPA Description": "有声 歯茎・後部歯茎 接近音音",
+    "IPA Description": "有声 歯茎・後部歯茎 接近 音 音",
     "Status": "",
     "Character": "ɹ"
   },
@@ -454,7 +454,7 @@
     "IPA Name": "Turned R, right Tail",
     "USV": "027B",
     "Unicode Name": "LATIN SMALL LETTER TURNED R WITH HOOK",
-    "IPA Description": "有声 そり舌 接近音音",
+    "IPA Description": "有声 そり舌 接近 音 音",
     "Status": "",
     "Character": "ɻ"
   },
@@ -463,7 +463,7 @@
     "IPA Name": "Lower-case J",
     "USV": "006A",
     "Unicode Name": "LATIN SMALL LETTER J",
-    "IPA Description": "有声 硬口蓋 接近音音",
+    "IPA Description": "有声 硬口蓋 接近 音 音",
     "Status": "",
     "Character": "j"
   },
@@ -472,7 +472,7 @@
     "IPA Name": "Turned M, right Leg",
     "USV": "0270",
     "Unicode Name": "LATIN SMALL LETTER TURNED M WITH LONG LEG",
-    "IPA Description": "有声 軟口蓋 接近音音",
+    "IPA Description": "有声 軟口蓋 接近 音 音",
     "Status": "",
     "Character": "ɰ"
   },
@@ -481,7 +481,7 @@
     "IPA Name": "Lower-case L",
     "USV": "006C",
     "Unicode Name": "LATIN SMALL LETTER L",
-    "IPA Description": "有声 歯茎 側面接近音",
+    "IPA Description": "有声 歯茎 側面接近 音",
     "Status": "",
     "Character": "l"
   },
@@ -490,7 +490,7 @@
     "IPA Name": "Right-tail L",
     "USV": "026D",
     "Unicode Name": "LATIN SMALL LETTER L WITH RETROFLEX HOOK",
-    "IPA Description": "有声 そり舌 側面接近音",
+    "IPA Description": "有声 そり舌 側面接近 音",
     "Status": "",
     "Character": "ɭ"
   },
@@ -499,7 +499,7 @@
     "IPA Name": "Turned Y",
     "USV": "028E",
     "Unicode Name": "LATIN SMALL LETTER TURNED Y",
-    "IPA Description": "有声 硬口蓋 側面接近音",
+    "IPA Description": "有声 硬口蓋 側面接近 音",
     "Status": "",
     "Character": "ʎ"
   },
@@ -508,7 +508,7 @@
     "IPA Name": "Small capital L",
     "USV": "029F",
     "Unicode Name": "LATIN LETTER SMALL CAPITAL L",
-    "IPA Description": "有声 軟口蓋 側面接近音",
+    "IPA Description": "有声 軟口蓋 側面接近 音",
     "Status": "",
     "Character": "ʟ"
   }
