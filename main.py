@@ -12,7 +12,7 @@ def main():
             char=elem["Character"]
             table.append([char]+vpm)
     
-    st.table(table)
+    st.dataframe(table)
 
 
 

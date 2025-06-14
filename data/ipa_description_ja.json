@@ -180,6 +180,15 @@
     "Character": "ɴ"
   },
   {
+    "IPA Number": 121,
+    "IPA Name": "Small Capital B",
+    "USV": "0299",
+    "Unicode Name": "LATIN LETTER SMALL CAPITAL B",
+    "IPA Description": "有声 両唇 ふるえ 音",
+    "Status": "",
+    "Character": "ʙ"
+  },
+  {
     "IPA Number": 122,
     "IPA Name": "Lower-case R",
     "USV": "0072",
@@ -511,5 +520,14 @@
     "IPA Description": "有声 軟口蓋 側面接近 音",
     "Status": "",
     "Character": "ʟ"
+  },
+  {
+    "IPA Number": 184,
+    "IPA Name": "Right-hook V",
+    "USV": "2C71",
+    "Unicode Name": "LATIN SMALL LETTER V WITH RIGHT HOOK",
+    "IPA Description": "有声 唇歯 はじき 音",
+    "Status": "",
+    "Character": "ⱱ"
   }
 ]
