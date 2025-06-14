@@ -112,7 +112,7 @@
     "IPA Name": "Glottal stop",
     "USV": "0294",
     "Unicode Name": "LATIN LETTER GLOTTAL STOP",
-    "IPA Description": "声門 破裂 音",
+    "IPA Description": "(無声) 声門 破裂 音",
     "Status": "",
     "Character": "ʔ"
   },
@@ -436,7 +436,7 @@
     "IPA Name": "Cursive V",
     "USV": "028B",
     "Unicode Name": "LATIN SMALL LETTER V WITH HOOK",
-    "IPA Description": "有声 唇歯 接近 音 音",
+    "IPA Description": "有声 唇歯 接近 音",
     "Status": "",
     "Character": "ʋ"
   },
@@ -445,7 +445,7 @@
     "IPA Name": "Turned R",
     "USV": "0279",
     "Unicode Name": "LATIN SMALL LETTER TURNED R",
-    "IPA Description": "有声 歯茎・後部歯茎 接近 音 音",
+    "IPA Description": "有声 歯茎・後部歯茎 接近 音",
     "Status": "",
     "Character": "ɹ"
   },
@@ -454,7 +454,7 @@
     "IPA Name": "Turned R, right Tail",
     "USV": "027B",
     "Unicode Name": "LATIN SMALL LETTER TURNED R WITH HOOK",
-    "IPA Description": "有声 そり舌 接近 音 音",
+    "IPA Description": "有声 そり舌 接近 音",
     "Status": "",
     "Character": "ɻ"
   },
@@ -463,7 +463,7 @@
     "IPA Name": "Lower-case J",
     "USV": "006A",
     "Unicode Name": "LATIN SMALL LETTER J",
-    "IPA Description": "有声 硬口蓋 接近 音 音",
+    "IPA Description": "有声 硬口蓋 接近 音",
     "Status": "",
     "Character": "j"
   },
@@ -472,7 +472,7 @@
     "IPA Name": "Turned M, right Leg",
     "USV": "0270",
     "Unicode Name": "LATIN SMALL LETTER TURNED M WITH LONG LEG",
-    "IPA Description": "有声 軟口蓋 接近 音 音",
+    "IPA Description": "有声 軟口蓋 接近 音",
     "Status": "",
     "Character": "ɰ"
   },

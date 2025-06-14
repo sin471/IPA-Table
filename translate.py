@@ -24,8 +24,8 @@ enToJpDict = {
     "fricative": "摩擦",
     "lateral approximant": "側面接近",
     "lateral approximate": "側面接近", #元データのスペルミス
-    "approximant": "接近音",
-    "approximate": "接近音",
+    "approximant": "接近",
+    "approximate": "接近",
 }
 
 def translate(text:str) -> str:
