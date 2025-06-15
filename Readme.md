@@ -1,8 +1,12 @@
 # IPA-Table
 
-JSONデータ
-https://github.com/amundo/ipa-json
+![デモンストレーション](img/demo.gif)
 
+## JSONデータ
+
+https://github.com/amundo/ipa-json を加工して作成
+
+## ライセンス
 
 http://creativecommons.org/licenses/by-sa/3.0/
 
